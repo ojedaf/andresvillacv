@@ -1,19 +1,23 @@
 ---
-title: "An example conference paper"
+title: "TNT: Text-Conditioned Network with Transductive Inference for Few-Shot Video Classification"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Juan Manuel Perez Rua
+- Vladimir Araujo
+- Juan Carlos Niebles
+- Victor Escorcia
+- Alvaro Soto
 
-# Author notes (optional)
+<!-- # Author notes (optional)
 author_notes:
 - "Equal contribution"
-- "Equal contribution"
+- "Equal contribution" -->
 
-date: "2013-07-01T00:00:00Z"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,15 +30,15 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *British Machine Vision Conference*
+publication_short: In *BMVC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Recently, few-shot video classification has received an increasing interest. Current approaches mostly focus on effectively exploiting the temporal dimension in videos to improve learning under low data regimes. However, most works have largely ignored that videos are often accompanied by rich textual descriptions that can also be an essential source of information to handle few-shot recognition cases. In this paper, we propose to leverage these human-provided textual descriptions as privileged information when training a few-shot video classification model. Specifically, we formulate a text-based task conditioner to adapt video features to the few-shot learning task. Furthermore, our model follows a transductive setting to improve the task-adaptation ability of the model by using the support textual descriptions and query instances to update a set of class prototypes. Our model achieves state-of-the-art performance on four challenging benchmarks commonly used to evaluate few-shot video action classification models.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+<!-- # Summary. An optional shortened abstract.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. -->
 
-tags: []
+tags: [few-shot learning, adaptive network, multimodal information, action classification, transductive classification]
 
 # Display this page in the Featured widget?
 featured: true
@@ -42,16 +46,16 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: http://example.org
+#   url: https://ojedaf.github.io/tnt_site/
 
-url_pdf: ''
+url_pdf: 'https://www.bmvc2021-virtualconference.com/assets/papers/1200.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://ojedaf.github.io/tnt_site/'
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.bmvc2021-virtualconference.com/conference/papers/paper_1200.html'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
