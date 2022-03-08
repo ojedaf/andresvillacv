@@ -64,6 +64,7 @@ experience:
          * Recommender Systems
          * Visual Question Answering
          * Video understanding
+        |2-
          Functions:
          * Teach the principal motivations behind the tasks of Video Understanding and Visual question answering and how these tasks have been addressed
          * Explain inductive artificial intelligence techniques such as SVM, Random Forest, Naive Bayes, Neural Networks, Deep Learning, etc
