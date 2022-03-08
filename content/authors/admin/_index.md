@@ -29,13 +29,13 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: Pontificia Universidad Católica de Chile
-    year: March 2019 - Present
+    year: (March 2019 - Present)
   - course: Bs. Electronic Engineering
     institution: Universidad del Norte, Barranquilla
-    year: 2017
+    year: (February 2012 - March 2017)
   - course: Academic Exchange
     institution: Universidad Politécnica de Madrid
-    year: 2016
+    year: (September 2015 - July 2016)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
