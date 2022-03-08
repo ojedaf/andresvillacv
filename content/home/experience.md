@@ -63,6 +63,18 @@ experience:
          * Prepare exercises for the students
          * Solve doubts about the laboratories and grade these
          * Courses: Artificial Intelligence, Introduction to programming, Deep Learning, Recommender Systems, Visual Question Answering, Video understanding 
+ - title: Software Engineer
+    company: IntegraIT
+    company_url: 'https://integrait.co/es_CO/'
+    company_logo: org-x
+    location: Bogota, Colombia
+    date_start: '2017-07-01'
+    date_end: '2019-02-01'
+    description: |2-
+         Functions:
+         * Develop new features for cross-platform applications which are designed for vaccine management using frameworks like Ionic
+         * Develop new web applications and maintain existing ones, both frontend, and backend parts
+         * Deploy the mobile solutions in the Play Store for Android devices and the App Store for iOS devices 
 design:
   columns: '2'
 ---
