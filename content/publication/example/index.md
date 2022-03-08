@@ -15,7 +15,7 @@ authors:
 # Author notes (optional)
 author_notes:
 
-date: ""
+date: "2017-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -36,7 +36,7 @@ abstract: Recently, few-shot video classification has received an increasing int
 # Summary. An optional shortened abstract.
 summary:
 
-tags: [few-shot learning, adaptive network, multimodal information, action classification, transductive classification]
+tags: []
 
 # Display this page in the Featured widget?
 featured: true
