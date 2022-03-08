@@ -42,7 +42,7 @@ experience:
     location: Santiago, Chile
     date_start: '2019-03-01'
     date_end: ''
-    description: 
+    description: |2-
          Main topics:
          * Few-Shot learning for video understanding
          * Multimodal models
