@@ -22,13 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Remote Research Intern
+    company: King Abdullah University of Science and Technology (KAUST)
+    company_url: 'https://www.kaust.edu.sa/en'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Thuwal, Saudi Arabi
+    date_start: '2021-06-01'
+    date_end: 'Present'
     description: |2-
         Responsibilities include:
         
