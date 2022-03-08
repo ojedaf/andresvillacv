@@ -63,7 +63,7 @@ experience:
          * Prepare exercises for the students
          * Solve doubts about the laboratories and grade these
          * Courses: Artificial Intelligence, Introduction to programming, Deep Learning, Recommender Systems, Visual Question Answering, Video understanding 
- - title: Software Engineer
+  - title: Software Engineer
     company: IntegraIT
     company_url: 'https://integrait.co/es_CO/'
     company_logo: org-x
