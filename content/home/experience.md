@@ -49,7 +49,26 @@ experience:
          * Human action recognition
          * Attention
          * Transductive inference
-
+  - title: Teaching assistant
+    company: Pontificia Universidad Católica de Chile
+    company_url: 'https://www.uc.cl/'
+    company_logo: org-x
+    location: Santiago, Chile
+    date_start: '2019-03-01'
+    date_end: ''
+    description: |2-
+         Courses:
+         * Artificial Intelligence
+         * Introduction to programming
+         * Deep Learning
+         * Recommender Systems
+         * Visual Question Answering
+         * Video understanding
+         Functions:
+         * Teach the principal motivations behind the tasks of Video Understanding and Visual question answering and how these tasks have been addressed
+         * Explain inductive artificial intelligence techniques such as SVM, Random Forest, Naive Bayes, Neural Networks, Deep Learning, etc
+         * Prepare exercises for the students
+         * Solve doubts about the laboratories and grade these
 design:
   columns: '2'
 ---
