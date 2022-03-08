@@ -6,7 +6,7 @@ title: Andrés Villa
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,9 +18,11 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Video Understanding
+- Few-Shot Learning
+- Continual Learning
+- Class Incremental Learning
+- Human Action Classification
 
 # Education to show in About widget
 education:
