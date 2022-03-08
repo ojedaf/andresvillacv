@@ -14,7 +14,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
+- "Main author"
 
 date: "2021-11-01T00:00:00Z"
 doi: ""
@@ -68,15 +68,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
