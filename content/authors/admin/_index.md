@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: Pontificia Universidad Católica de Chile
-    year: Present
+    year: March 2019 - Present
   - course: Bs. Electronic Engineering
     institution: Universidad del Norte, Barranquilla
     year: 2017
