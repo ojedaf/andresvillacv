@@ -30,20 +30,25 @@ experience:
     date_start: '2021-06-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Main topics:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Class incremental learning for action classification
+        * Continual learning
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Research assistantship
+    company: Pontificia Universidad Católica de Chile
+    company_url: 'https://www.uc.cl/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Santiago, Chile
+    date_start: '2019-03-01'
+    date_end: ''
+    description: 
+         Main topics:
+         * Few-Shot learning for video understanding
+         * Multimodal models
+         * Human action recognition
+         * Attention
+         * Transductive inference
 
 design:
   columns: '2'
