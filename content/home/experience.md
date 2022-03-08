@@ -67,7 +67,7 @@ experience:
     company: IntegraIT
     company_url: 'https://integrait.co/es_CO/'
     company_logo: org-x
-    location: Bogota, Colombia
+    location: Bogotá, Colombia
     date_start: '2017-07-01'
     date_end: '2019-02-01'
     description: |2-
