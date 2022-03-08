@@ -56,19 +56,13 @@ experience:
     location: Santiago, Chile
     date_start: '2019-03-01'
     date_end: ''
-    description: |3-
-         Courses:
-         * Artificial Intelligence
-         * Introduction to programming
-         * Deep Learning
-         * Recommender Systems
-         * Visual Question Answering
-         * Video understanding 
+    description: |2-
          Functions:
          * Teach the principal motivations behind the tasks of Video Understanding and Visual question answering and how these tasks have been addressed
          * Explain inductive artificial intelligence techniques such as SVM, Random Forest, Naive Bayes, Neural Networks, Deep Learning, etc
          * Prepare exercises for the students
          * Solve doubts about the laboratories and grade these
+         * Courses: Artificial Intelligence, Introduction to programming, Deep Learning, Recommender Systems, Visual Question Answering, Video understanding 
 design:
   columns: '2'
 ---
