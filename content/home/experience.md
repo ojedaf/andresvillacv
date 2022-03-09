@@ -38,7 +38,7 @@ experience:
   - title: Research assistantship
     company: Pontificia Universidad Católica de Chile
     company_url: 'https://www.uc.cl/'
-    company_logo: org-x
+    company_logo: puc
     location: Santiago, Chile
     date_start: '2019-03-01'
     date_end: ''
@@ -52,7 +52,7 @@ experience:
   - title: Teaching assistant
     company: Pontificia Universidad Católica de Chile
     company_url: 'https://www.uc.cl/'
-    company_logo: org-x
+    company_logo: puc
     location: Santiago, Chile
     date_start: '2019-03-01'
     date_end: ''
@@ -66,7 +66,7 @@ experience:
   - title: Software Engineer
     company: IntegraIT
     company_url: 'https://integrait.co/es_CO/'
-    company_logo: org-x
+    company_logo: integrait
     location: Bogotá, Colombia
     date_start: '2017-07-01'
     date_end: '2019-02-01'
