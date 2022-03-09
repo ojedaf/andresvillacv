@@ -1,26 +1,24 @@
 ---
-title: "vCLIMB: A Novel Video Class Incremental Learning Benchmark"
+title: "Interpretable Contextual Team-aware Item Recommendation: Application in Multiplayer Online Battle Arena Game"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Kumail Alhamoud
-- Juan León Alcázar
-- Fabian Caba Heilbron
-- Victor Escorcia
-- Bernard Ghanem
+- Vladimir Araujo
+- Francisca Cattan
+- Denis Parra
 
 # Author notes (optional)
 author_notes:
 - "Main author"
 
-date: "2022-06-19T00:00:00Z"
+date: "2020-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-03-01T00:00:00Z"
+publishDate: "2020-09-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,10 +30,10 @@ publication_types: ["1"]
 publication: In *Conference on Computer Vision and Pattern Recognition*
 publication_short: In *CVPR*
 
-abstract: Continual learning (CL) is under-explored in the video domain. The few existing works contain splits with imbalanced class distributions over the tasks, or study the problem in unsuitable datasets. We introduce vCLIMB, a novel video continual learning benchmark. vCLIMB is a standardized test-bed to analyze catastrophic forgetting of deep models in video continual learning. In contrast to previous work, we focus on class incremental continual learning with models trained on a sequence of disjoint tasks, and distribute the number of classes uniformly across the tasks. We perform in-depth evaluations of existing CL methods in vCLIMB, and observe two unique challenges in video data. The selection of instances to store in episodic memory is performed at the frame level. Second, untrimmed training data influences the effectiveness of frame sampling strategies. We address these two challenges by proposing a temporal consistency regularization that can be applied on top of memory-based continual learning methods. Our approach significantly improves the baseline, by up to 24% on the untrimmed continual learning task. To streamline and foster future research in video continual learning, we will publicly release the code for our benchmark and method.
+abstract: The video game industry has adopted recommendation systems to boost users interest with a focus on game sales. Other exciting applications within video games are those that help the player make decisions that would maximize their playing experience, which is a desirable feature in real-time strategy video games such as Multiplayer Online Battle Arena (MOBA) like as DotA and LoL. Among these tasks, the recommendation of items is challenging, given both the contextual nature of the game and how it exposes the dependence on the formation of each team. Existing works on this topic do not take advantage of all the available contextual match data and dismiss potentially valuable information. To address this problem we develop TTIR, a contextual recommender model derived from the Transformer neural architecture that suggests a set of items to every team member, based on the contexts of teams and roles that describe the match. TTIR outperforms several approaches and provides interpretable recommendations through visualization of attention weights. Our evaluation indicates that both the Transformer architecture and the contextual information are essential to get the best results for this item recommendation task. Furthermore, a preliminary user survey indicates the usefulness of attention weights for explaining recommendations as well as ideas for future work. The code and dataset are available at https://github.com/ojedaf/IC-TIR-Lol.
 
 # Summary. An optional shortened abstract.
-summary: vCLIMB is a standardized test-bed to analyze catastrophic forgetting of deep models in video continual learning. We perform in-depth evaluations of existing CL methods in vCLIMB, and observe two unique challenges in video data. The selection of instances to store in episodic memory is performed at the frame level. Second, untrimmed training data influences the effectiveness of frame sampling strategies.
+summary:  We develop TTIR, a contextual recommender model derived from the Transformer neural architecture that suggests a set of items to every team member, based on the contexts of teams and roles that describe the match. TTIR outperforms several approaches and provides interpretable recommendations through visualization of attention weights.
 
 tags: []
 
@@ -47,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: https://ojedaf.github.io/tnt_site/
 
-url_pdf: 'https://arxiv.org/abs/2201.09381'
+url_pdf: 'https://dl.acm.org/doi/10.1145/3383313.3412211'
 url_code: ''
 url_dataset: ''
 url_poster: ''
