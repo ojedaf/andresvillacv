@@ -1,12 +1,11 @@
 ---
-title: "TNT: Text-Conditioned Network with Transductive Inference for Few-Shot Video Classification"
+title: "vCLIMB: A Novel Video Class Incremental Learning Benchmark"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Juan Manuel Perez Rua
 - Kumail Alhamoud
 - Juan León Alcázar
 - Fabian Caba Heilbron
@@ -17,7 +16,7 @@ authors:
 author_notes:
 - "Main author"
 
-date: "2021-11-01T00:00:00Z"
+date: "2021-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
