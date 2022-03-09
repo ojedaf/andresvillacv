@@ -25,7 +25,7 @@ experience:
   - title: Remote Research Intern
     company: King Abdullah University of Science and Technology (KAUST)
     company_url: 'https://www.kaust.edu.sa/en'
-    company_logo: org-gc
+    company_logo: kaust
     location: Thuwal, Saudi Arabi
     date_start: '2021-06-01'
     date_end: ''
