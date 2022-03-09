@@ -27,8 +27,8 @@ publishDate: "2020-09-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Conference on Computer Vision and Pattern Recognition*
-publication_short: In *CVPR*
+publication: In *ACM Conference on Recommender Systems*
+publication_short: In *RecSys*
 
 abstract: The video game industry has adopted recommendation systems to boost users interest with a focus on game sales. Other exciting applications within video games are those that help the player make decisions that would maximize their playing experience, which is a desirable feature in real-time strategy video games such as Multiplayer Online Battle Arena (MOBA) like as DotA and LoL. Among these tasks, the recommendation of items is challenging, given both the contextual nature of the game and how it exposes the dependence on the formation of each team. Existing works on this topic do not take advantage of all the available contextual match data and dismiss potentially valuable information. To address this problem we develop TTIR, a contextual recommender model derived from the Transformer neural architecture that suggests a set of items to every team member, based on the contexts of teams and roles that describe the match. TTIR outperforms several approaches and provides interpretable recommendations through visualization of attention weights. Our evaluation indicates that both the Transformer architecture and the contextual information are essential to get the best results for this item recommendation task. Furthermore, a preliminary user survey indicates the usefulness of attention weights for explaining recommendations as well as ideas for future work. The code and dataset are available at https://github.com/ojedaf/IC-TIR-Lol.
 
