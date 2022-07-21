@@ -28,7 +28,7 @@ experience:
     company_logo: kaust
     location: Thuwal, Saudi Arabi
     date_start: '2021-06-01'
-    date_end: ''
+    date_end: '2022-06-22'
     description: |2-
         Main topics:
         
