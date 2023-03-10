@@ -18,11 +18,11 @@ authors:
 author_notes:
 - "Main author"
 
-date: "2023-18-06T00:00:00Z"
+date: "2023-06-18T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-18-06T00:00:00Z"
+publishDate: "2022-12-12T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
